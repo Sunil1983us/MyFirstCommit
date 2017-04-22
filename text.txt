@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A424-4BBC
+
+ Directory of C:\Sunil Kumar\Tools\Git Project
+
+04/21/2017  10:43 PM    <DIR>          .
+04/21/2017  10:43 PM    <DIR>          ..
+04/21/2017  10:43 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  786,750,218,240 bytes free
